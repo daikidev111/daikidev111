@@ -9,7 +9,7 @@
 - 🌱 I’m currently working on building a E-Commerce website for petshop service!
 - 📚 I am currently learning algorithm and data structures as well as Flutter for Solution Challenge, hosted by Google!
 - 📝[Resume(Soon to be uploaded!)]()
-- 📫 How to reach me (LinkedIn): [daiki-kubo](www.linkedin.com/in/daiki-kubo)
+- 📫 How to reach me (LinkedIn): [daiki-kubo](https://www.linkedin.com/in/daiki-kubo)
 - View My Tech Blog (10k views in total): [@daikidev111](http://qiita.com/daikidev111) 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
