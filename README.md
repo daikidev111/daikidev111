@@ -36,6 +36,13 @@
   
 <br />
 
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-ar21.svg"></code>
+
+<br />
+<br />
+
 ## 📈 GitHub Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=daikidev111)](https://github.com/ryo-ma/github-profile-trophy)
 
