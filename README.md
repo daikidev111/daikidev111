@@ -35,3 +35,13 @@
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   
 <br />
+
+## 📈 GitHub Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=daikidev111)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="left">  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=daikidev111&theme=react&show_icons=true" />
+</a>
+
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daikidev111&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
