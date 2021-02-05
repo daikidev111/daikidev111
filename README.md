@@ -11,7 +11,6 @@
 - 📝[Resume(Soon to be uploaded!)]()
 - 📫 How to reach me (LinkedIn): [daiki-kubo](www.linkedin.com/in/daiki-kubo)
 - View My Tech Blog (10k views in total): [@daikidev111](http://qiita.com/daikidev111) 
-</a>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
